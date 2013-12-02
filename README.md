@@ -1,4 +1,4 @@
 ClojureDojoWeekFifteen
 ======================
 
-Coljure Sudoku
+Clojure Sudoku
